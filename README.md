@@ -50,7 +50,6 @@ KoBART domain-adaptive pretraining with Extracted Gap-sentences (PEGASUS) for Ab
 본인이 2021.10.22에 PEGASUS 논문을 발표한 영상입니다.
 https://www.youtube.com/watch?v=14DYRVWFZTs
   
-## 참고자료
 ## Reference
 
 - [https://github.com/SKT-AI/KoBART](https://github.com/SKT-AI/KoBART)
