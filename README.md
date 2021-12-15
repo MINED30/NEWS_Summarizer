@@ -51,7 +51,18 @@ KoBART domain-adaptive pretraining with Extracted Gap-sentences (PEGASUS) for Ab
 https://www.youtube.com/watch?v=14DYRVWFZTs
   
 ## 참고자료
-- Suchin Gururangan and Ana Marasović and Swabha Swayamdipta and Kyle Lo and Iz Beltagy and Doug Downey and Noah A. Smith, Don't Stop Pretraining: Adapt Language Models to Domains and Tasks,2020,2004.10964,arXiv,cs.CL
-- Jingqing Zhang and Yao Zhao and Mohammad Saleh and Peter J. Liu, PEGASUS: Pre-training with Extracted Gap-sentences for Abstractive Summarization, 2020, 1912.08777, arXiv,cs.CL
-- Mike Lewis and Yinhan Liu and Naman Goyal and Marjan Ghazvininejad and Abdelrahman Mohamed and Omer Levy and Ves Stoyanov and Luke Zettlemoyer, BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension,2019,1910.13461,arXiv,cs.CL
-- https://github.com/SKT-AI/KoBART
+## Reference
+
+- [https://github.com/SKT-AI/KoBART](https://github.com/SKT-AI/KoBART)
+
+- [https://github.com/SKT-AI/KoGPT2](https://github.com/SKT-AI/KoGPT2)
+
+- [https://dacon.io/competitions/official/235813/overview/description](https://dacon.io/competitions/official/235813/overview/description)
+
+- [https://dacon.io/competitions/official/235829/overview/description](https://dacon.io/competitions/official/235829/overview/description)
+
+- Gururangan, S., Marasović, A., Swayamdipta, S., Lo, K., Beltagy, I., Downey, D., & Smith, N. A. (2020). *Don’t Stop Pretraining: Adapt Language Models to Domains and Tasks*. http://arxiv.org/abs/2004.10964
+
+- Lewis, M., Liu, Y., Goyal, N., Ghazvininejad, M., Mohamed, A., Levy, O., Stoyanov, V., Zettlemoyer, L., & Ai, F. (n.d.). *BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension*. https://huggingface.co/transformers
+
+- Zhang, J., Zhao, Y., Saleh, M., & Liu, P. J. (2019). *PEGASUS: Pre-training with Extracted Gap-sentences for Abstractive Summarization*. http://arxiv.org/abs/1912.08777
